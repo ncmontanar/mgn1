@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Camilo ###
+.prueba2
+/tests_desa
